@@ -58,6 +58,14 @@ flutter:
   uses-material-design: true
   assets:
     - images/farm-house.jpg
+    - images/bosscha.jpg
+    - images/floating-market.png
+    - images/jalan-asia-afrika.jpg
+    - images/kawah-putih.jpg
+    - images/museum-geologi.jpg
+    - images/ranca-upas.jpg
+    - images/stone-garden.jpg
+    - images/taman-film.jpg
 
   # To add assets to your application, add an assets section, like this:
   # assets:
